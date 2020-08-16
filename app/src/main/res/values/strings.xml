@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Urban Creator</string>
+    <string name="facebook_app_id">342019173855024</string> <string name="fb_login_protocol_scheme">fb342019173855024</string>
+    <string name="successLogin">welcome!</string>
+    <string name="failedLogin">log in failed, try again!</string>
+    <string name="share">Share</string>
+
+    //drawing
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">small</string>
+    <string name="med">medium</string>
+    <string name="lrg">large</string>
+</resources>

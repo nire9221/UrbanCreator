@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1097229889693",
+    "firebase_url": "https://urban-creator.firebaseio.com",
+    "project_id": "urban-creator",
+    "storage_bucket": "urban-creator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097229889693:android:95773ea5ddce5145f6a474",
+        "android_client_info": {
+          "package_name": "com.erin.urbanCreator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097229889693-nppvc0vmhe3jl4lu9emhs3jg9g312s57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZc96bNA1IWORpOSLHD71ePUG-Gpozpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097229889693-nppvc0vmhe3jl4lu9emhs3jg9g312s57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
